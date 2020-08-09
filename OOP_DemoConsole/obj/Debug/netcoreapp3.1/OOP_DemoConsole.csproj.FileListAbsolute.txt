@@ -1,0 +1,12 @@
+C:\Users\Lenovo\source\repos\OOP_DemoConsole\OOP_DemoConsole\bin\Debug\netcoreapp3.1\OOP_DemoConsole.exe
+C:\Users\Lenovo\source\repos\OOP_DemoConsole\OOP_DemoConsole\bin\Debug\netcoreapp3.1\OOP_DemoConsole.deps.json
+C:\Users\Lenovo\source\repos\OOP_DemoConsole\OOP_DemoConsole\bin\Debug\netcoreapp3.1\OOP_DemoConsole.runtimeconfig.json
+C:\Users\Lenovo\source\repos\OOP_DemoConsole\OOP_DemoConsole\bin\Debug\netcoreapp3.1\OOP_DemoConsole.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\OOP_DemoConsole\OOP_DemoConsole\bin\Debug\netcoreapp3.1\OOP_DemoConsole.dll
+C:\Users\Lenovo\source\repos\OOP_DemoConsole\OOP_DemoConsole\bin\Debug\netcoreapp3.1\OOP_DemoConsole.pdb
+C:\Users\Lenovo\source\repos\OOP_DemoConsole\OOP_DemoConsole\obj\Debug\netcoreapp3.1\OOP_DemoConsole.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\OOP_DemoConsole\OOP_DemoConsole\obj\Debug\netcoreapp3.1\OOP_DemoConsole.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\OOP_DemoConsole\OOP_DemoConsole\obj\Debug\netcoreapp3.1\OOP_DemoConsole.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\OOP_DemoConsole\OOP_DemoConsole\obj\Debug\netcoreapp3.1\OOP_DemoConsole.dll
+C:\Users\Lenovo\source\repos\OOP_DemoConsole\OOP_DemoConsole\obj\Debug\netcoreapp3.1\OOP_DemoConsole.pdb
+C:\Users\Lenovo\source\repos\OOP_DemoConsole\OOP_DemoConsole\obj\Debug\netcoreapp3.1\OOP_DemoConsole.genruntimeconfig.cache
